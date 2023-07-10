@@ -57,6 +57,9 @@ body {
     text-align: left;
   }
 }
+p{
+  text-align : justify;
+}
 /* button */
 #myBtn {
   display: none;
